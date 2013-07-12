@@ -6,3 +6,5 @@ openmrs-raxa-sms-ussd
 Download Simulator: http://code.google.com/p/mchoice-applications/downloads/detail?name=mchoice-simulator-LATEST.zip
 
 Read more: https://wiki.openmrs.org/x/QwAzAw
+
+Demo Video: http://youtu.be/wrUIc2Z_4YY
